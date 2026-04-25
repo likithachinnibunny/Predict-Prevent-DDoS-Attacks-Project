@@ -1,0 +1,10 @@
+ddos-prediction-prevention/
+│
+├── main.py
+├── model.py
+├── data_loader.py
+├── prevention.py
+├── config.py
+├── dataset.csv
+├── test_system.py
+└── README.md
